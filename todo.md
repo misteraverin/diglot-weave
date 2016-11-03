@@ -9,3 +9,5 @@
 * написать вк-пост
 * fix english grammar
 * add links
+* https://speakasap.com/ru/se-ru/grammar/spryazhenie-glagolov/
+* запостить в группу по изучению шведского и собрать хайп
